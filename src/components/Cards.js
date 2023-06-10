@@ -13,6 +13,7 @@ const Cards = () => {
 
 
   const dispatch = useDispatch();
+  console.log("first");
 
 
   const send = (e)=>{
